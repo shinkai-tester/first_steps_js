@@ -58,4 +58,4 @@ git push <удаленный_репо> <ветка> --force-with-lease
 - [Interactive resources for learning Git](https://www.makeuseof.com/git-learn-interactive-resources/)
 - [Baeldung's Git Guide](https://www.baeldung.com/ops/git-guide)
 - [Git Amend w3schools](https://www.w3schools.com/git/git_amend.asp?remote=github)
-
+- [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
